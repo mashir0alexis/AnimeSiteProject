@@ -1,6 +1,6 @@
 <?php
 /*
 *
-*	included files
+*	Class [all the class will be coded here]
 */
 ?>

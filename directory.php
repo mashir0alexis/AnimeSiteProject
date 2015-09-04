@@ -5,8 +5,12 @@
 *
 */
 
-#Bootsrap FOLDER
-define("BOOTSTRAP_CSS_FILES", "../bootstrap/css/");
-define("BOOTSTRAP_JS_FILES", "../bootstrap/js/");
 
+
+#Bootsrap FOLDER
+define("BOOTSTRAP_CSS_FILES", "../".SITE_FOLDER_NAME."/bootstrap/css/");
+define("BOOTSTRAP_JS_FILES", "../".SITE_FOLDER_NAME."/bootstrap/js/");
+
+#Local JS files
+define("JS_FILES", "./js/");
 ?>
