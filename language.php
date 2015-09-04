@@ -1,0 +1,9 @@
+<?php
+/*
+*
+*	Language [used title]
+*
+*/
+
+
+?>
