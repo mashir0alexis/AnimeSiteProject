@@ -11,7 +11,7 @@ include "core.php";
 	<?php include "include.php"; ?>
 </head>
 <body>
-<h1>Welcome to PHP LEARNING site</h1>
+<h1>Welcome to PHP LEARNING site the bestsite ever</h1>
 <h4>This project is to provide knowlege to web dev that is interested in learning PHP</h4>
 </body>
 </html>
